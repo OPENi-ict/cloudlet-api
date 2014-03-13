@@ -41,14 +41,11 @@
       "grunt-contrib-concat"    : "",
       "grunt-contrib-uglify"    : "",
       "grunt-istanbul-coverage" : "",
-      "grunt-testem"            : "",
       "grunt-qunit-cov"         : "",
       "grunt-plato"             : "",
-      "grunt-node-tap"          : "",
       "grunt-istanbul"          : "",
       "grunt"                   : "~0.4.1",
       "grunt-config"            :"",
-      "tap"                     : "",
       "sinon"                   : ""
    },
 
