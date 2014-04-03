@@ -9,7 +9,7 @@
    },
    "repository"  : {
       "type": "git",
-      "url" : "git@gitlab.openi-ict.eu:cloudlet_api.git"
+      "url" : "git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet_api.git"
    },
    "bugs"        : {
       "url": ""
@@ -28,10 +28,10 @@
       "test": "grunt nodeunit"
    },
    "dependencies": {
-      "m2nodehandler"          : "git+ssh://git@gitlab.openi-ict.eu:m2nodehandler.git#master",
-      "dbc"                    : "git+ssh://git@gitlab.openi-ict.eu:dbc.git#master",
-      "openi-logger"           : "git+ssh://git@gitlab.openi-ict.eu:openi-logger.git#master",
-      "openi-cloudlet-utils"   : "git+ssh://git@gitlab.openi-ict.eu:openi-cloudlet-utils.git#master"
+      "m2nodehandler"          : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/m2nodehandler.git#master",
+      "dbc"                    : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/dbc.git#master",
+      "openi-logger"           : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/openi-logger.git#master",
+      "openi-cloudlet-utils"   : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/openi-cloudlet-utils.git#master"
    },
    "devDependencies": {
       "grunt-contrib-jshint"    : "~0.6.4",
