@@ -31,7 +31,7 @@
       "m2nodehandler"          : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/m2nodehandler.git#master",
       "dbc"                    : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/dbc.git#master",
       "openi-logger"           : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/openi-logger.git#master",
-      "openi-cloudlet-utils"   : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/openi-cloudlet-utils.git#master"
+      "openi-cloudlet-utils"   : "git+https://git@opensourceprojects.eu/git/p/openi/c60b/ad4e/cloudlet-utils.git#master"
    },
    "devDependencies": {
       "grunt-contrib-jshint"    : "~0.6.4",
