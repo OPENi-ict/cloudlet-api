@@ -31,7 +31,8 @@
       "m2nodehandler"          : "OPENi-ict/m2nodehandler",
       "dbc"                    : "OPENi-ict/dbc",
       "openi-logger"           : "OPENi-ict/openi-logger",
-      "openi-cloudlet-utils"   : "OPENi-ict/cloudlet-utils"
+      "openi-cloudlet-utils"   : "OPENi-ict/cloudlet-utils",
+      "node-rsa"               : ""
    },
    "devDependencies": {
       "grunt-contrib-jshint"    : "~0.6.4",
