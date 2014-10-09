@@ -11,14 +11,11 @@
    "boss"         : true,
    "eqnull"       : true,
    "node"         : true,
-   "asi"          : true,
-   "indent"       : 3,
+   "indent"       : 2,
    "strict"       : true,
    "forin"        : true,
-   "quotmark"     : "single",
    "maxparams"    : 5,
    "maxdepth"     : 4,
    "maxstatements": 30,
-   "maxlen"       : 120,
    "laxbreak"     : true
 }
