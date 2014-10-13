@@ -11,7 +11,7 @@
    "boss"         : true,
    "eqnull"       : true,
    "node"         : true,
-   "indent"       : 2,
+   "indent"       : 3,
    "strict"       : true,
    "forin"        : true,
    "maxparams"    : 5,
