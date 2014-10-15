@@ -2,7 +2,7 @@
    "name"        : "cloudlet_api",
    "description" : "Cloudlet Administration API for the OPENi Cloudlet Platform",
    "version"     : "0.1.0",
-   "homepage"    : "openi-ict.eu",
+   "homepage"    : "http://www.openi-ict.eu/",
    "author"      : {
       "name" : "dmccarthy",
       "email": "dmccarthy@tssg.org"
@@ -10,9 +10,6 @@
    "repository"  : {
       "type": "git",
       "url" : "git@github.com:OPENi-ict/cloudlet_api.git"
-   },
-   "bugs"        : {
-      "url": ""
    },
    "main"        : "lib/main",
    "engines"     : {
@@ -30,19 +27,8 @@
    },
    "devDependencies": {
       "grunt-contrib-jshint"    : "~0.6.4",
-      "grunt-contrib-nodeunit"  : "~0.2.0",
-      "grunt-contrib-watch"     : "~0.5.3",
-      "grunt-contrib-clean"     : "",
-      "grunt-contrib-concat"    : "",
-      "grunt-contrib-uglify"    : "",
-      "grunt-istanbul-coverage" : "",
-      "grunt-qunit-cov"         : "",
-      "grunt-plato"             : "",
-      "grunt-istanbul"          : "",
       "grunt"                   : "~0.4.1",
-      "grunt-config"            :"",
-      "sinon"                   : ""
+      "grunt-config"            : ""
    },
-
    "keywords": []
 }
