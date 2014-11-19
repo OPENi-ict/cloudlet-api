@@ -23,7 +23,8 @@
       "dbc"                    : "OPENi-ict/dbc",
       "openi-logger"           : "OPENi-ict/openi-logger",
       "openi-cloudlet-utils"   : "OPENi-ict/cloudlet-utils",
-      "jsonwebtoken"           : ""
+      "jsonwebtoken"           : "",
+      "openi_rrd" : "OPENi-ict/openi_rrd"
    },
    "devDependencies": {
       "grunt-contrib-jshint"    : "~0.6.4",
