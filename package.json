@@ -1,34 +1,35 @@
 {
-   "name"        : "cloudlet_api",
-   "description" : "Cloudlet Administration API for the OPENi Cloudlet Platform",
-   "version"     : "0.1.0",
-   "homepage"    : "http://www.openi-ict.eu/",
-   "author"      : {
-      "name" : "dmccarthy",
-      "email": "dmccarthy@tssg.org"
-   },
-   "repository"  : {
-      "type": "git",
-      "url" : "git@github.com:OPENi-ict/cloudlet_api.git"
-   },
-   "main"        : "lib/main",
-   "engines"     : {
-      "node": ">= 0.8.0"
-   },
-   "scripts"     : {
-      "test": "grunt nodeunit"
-   },
-   "dependencies": {
-      "m2nodehandler"          : "OPENi-ict/m2nodehandler",
-      "dbc"                    : "OPENi-ict/dbc",
-      "openi-logger"           : "OPENi-ict/openi-logger",
-      "openi-cloudlet-utils"   : "OPENi-ict/cloudlet-utils",
-      "jsonwebtoken"           : ""
-   },
-   "devDependencies": {
-      "grunt-contrib-jshint"    : "~0.6.4",
-      "grunt"                   : "~0.4.1",
-      "grunt-config"            : ""
-   },
-   "keywords": []
+  "name": "cloudlet_api",
+  "description": "Cloudlet Administration API for the OPENi Cloudlet Platform",
+  "version": "0.1.0",
+  "homepage": "http://www.openi-ict.eu/",
+  "author": {
+    "name": "dmccarthy",
+    "email": "dmccarthy@tssg.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OPENi-ict/cloudlet_api.git"
+  },
+  "main": "lib/main",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "dependencies": {
+    "m2nodehandler": "OPENi-ict/m2nodehandler",
+    "dbc": "OPENi-ict/dbc",
+    "openi-logger": "OPENi-ict/openi-logger",
+    "openi-cloudlet-utils": "OPENi-ict/cloudlet-utils",
+    "jsonwebtoken": "",
+    "openi_rrd": "OPENi-ict/openi_rrd"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "jshint-stylish": "^1.0.0"
+  },
+  "keywords": []
 }
