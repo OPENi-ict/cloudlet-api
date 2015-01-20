@@ -23,7 +23,7 @@
     "dbc": "OPENi-ict/dbc",
     "openi-logger": "OPENi-ict/openi-logger",
     "openi-cloudlet-utils": "OPENi-ict/cloudlet-utils",
-    "jsonwebtoken": "",
+    "jsonwebtoken": "3.2.0",
     "openi_rrd": "OPENi-ict/openi_rrd"
   },
   "devDependencies": {
